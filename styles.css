@@ -55,6 +55,14 @@ button i {
     word-break: break-word;
 }
 
+.weather {
+    display: flex;
+    max-width: 400px;
+    margin: 0 auto;
+
+    margin-bottom: 1rem;
+}
+
 img {
     min-width: 120px;
     background-image: radial-gradient(#b5b5b5, #f7f7f7 70%);
